@@ -12,3 +12,4 @@ The Lifelines_matplotlib.ipynb file features data collected from lab experiments
 The RMANOVA_seaborn.ipynb file features data collected from field plots outside where cockroaches were living. The study design is below, and we want to know if the bait reduced the cockroach population within treated plots, and between the treated and control plots on each measurement day. Since the same plots were measured over and over, we'll analyze differences within treatments using a repeated measures ANOVA in the statsmodels library. Differences between treatment and control groups can be found with t-tests. We'll use seaborn to visualize the data.
 
 https://user-images.githubusercontent.com/29462745/32420536-3ce00f86-c251-11e7-9974-053b09816dd3.png
+https://user-images.githubusercontent.com/29462745/32420537-3cfdc67a-c251-11e7-92e8-50391e75b9fa.png
