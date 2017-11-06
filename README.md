@@ -5,7 +5,7 @@ The datasets come from experiments testing an insecticidal bait on cockroaches. 
 
 Raw data csv files can be found in the data folder. 
 
-The pdf file is a copy of the white paper if you want to learn about this study in more detail.
+[Here](https://github.com/yvonnekmatos/Cockroach_Bait_Project/files/1444580/jee.tow092.full.pdf) is a copy of the white paper if you want to learn about this study in more detail.
 
 The Lifelines_matplotlib.ipynb file features data collected from lab experiments testing two types of insecticidal bait. We want to know how fast the baits kill cockroaches and how well they work. In this study, cockroaches were offered bait or normal food as a control, and dead cockroaches were recorded every 2 hours.  We'll use Kaplan-Meier survivorship in the lifelines library to analyze this data, and matplotlib to visualize the data. 
 
