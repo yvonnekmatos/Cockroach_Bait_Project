@@ -1,5 +1,5 @@
 # Cockroach_Bait_Project
-Tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
+Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
 
 The datasets come from experiments testing an insecticidal bait on cockroaches. The data fall into two main sets of experiments that dictate the type of statistical analysis we will do.
 
